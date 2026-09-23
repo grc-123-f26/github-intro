@@ -10,7 +10,7 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
     > A fork is a *GitHub* concept, not a git concept. It's creating a copy of the repo in your online GitHub account, but it doesn't download the code to your computer. If you have used Replit before, this is similar to creating a fork there.
 1. Keep this browser window open,  we will return to it in a moment.
 
-
+##hello ive been here## 
 ## Navigate your command line
 1. Open your command line (Git Bash on Windows, Terminal on Mac).
 1. Create a new directory where you will store repositories for this course. By default this will be in your home directory, but you can choose to put it elsewhere if you like. Run the below command to make a directory named `sdev301`.
