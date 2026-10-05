@@ -1,6 +1,9 @@
 # github-intro
 Introduction to using git and GitHub. Will lead you through your first fork, clone, commit, and push. It is common to run into issues when going through this. Don't be shy in asking for help or coming to office hours!
 
+## Deacon's Change
+This is the thing that I'm adding. I also fixed a typo :D
+
 
 ## Fork the Repository (repo)
 
